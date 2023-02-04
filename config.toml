@@ -8,9 +8,9 @@ build-mindetach-module = true
 # add 'enabled = false' for not patching a specific app
 [YouTube]
 enabled = true
-build-mode = "both" # 'both', 'apk' or 'module'
+build-mode = "module" # 'both', 'apk' or 'module'
 excluded-patches = "debugging" # whitespace seperated list of patches to exclude (multiline strings are not supported)
-included-patches = "" # whitespace seperated list of patches to include
+included-patches = "client-spoof general-ads minimized-playback open-links-directly open-links-externally premium-heading return-youtube-dislike seekbar-tapping sponsorblock swipe-controls video-ads" # whitespace seperated list of patches to include
 version = "auto" # 'auto', 'latest' or a custom one like '17.40.41'
 exclusive-patches = false # excludes all patches by default
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
