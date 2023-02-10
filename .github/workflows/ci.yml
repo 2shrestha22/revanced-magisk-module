@@ -2,7 +2,7 @@ name: CI
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 16 * * *"
+    - cron: "0 0 * * 5" #https://crontab.guru/#0_0_*_*_5
 
 jobs:
   check:

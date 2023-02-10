@@ -12,6 +12,7 @@ build-mode = "both"
 excluded-patches = ""
 included-patches = "client-spoof general-ads minimized-playback open-links-directly open-links-externally return-youtube-dislike seekbar-tapping sponsorblock swipe-controls video-ads downloads" 
 version = "auto" 
+exclusive-patches = false 
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 module-prop-name = "ytrv-magisk"
 
@@ -45,6 +46,7 @@ version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitter-inc/twitter/"
 
 [Reddit]
+enabled = false 
 build-mode = "module"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
