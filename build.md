@@ -1,6 +1,14 @@
-CLI: revanced-cli-2.22.0-all.jar  
-Integrations: revanced-integrations-0.107.0.apk  
-Patches: revanced-patches-2.173.0.jar  
+YouTube: 18.16.37  
+
+Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
+
+[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
+
+---
+Changelog:  
+CLI: j-hc/revanced-cli-2.22.0-all.jar  
+Integrations: revanced/revanced-integrations-0.107.0.apk  
+Patches: revanced/revanced-patches-2.173.0.jar  
 
 ### [2.173.0](https://github.com/revanced/revanced-patches/compare/v2.172.0...v2.173.0) (2023-05-02)
 ### Features
@@ -11,10 +19,5 @@ Patches: revanced-patches-2.173.0.jar
 * **youtube:** bump compatibility to `18.16.37` ([fe3fdd5](https://github.com/revanced/revanced-patches/commit/fe3fdd5c6cb186bcebc2f86b1d5b597109b25cb6))
 * **youtube:** support version `18.16.37` ([8beb5ea](https://github.com/revanced/revanced-patches/commit/8beb5ea860284be915c0ef0c6039821a50c14fa8))
 
-  
-**App Versions:**  
-YouTube: 18.16.37  
-
-Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
-
-[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
+---
+    
