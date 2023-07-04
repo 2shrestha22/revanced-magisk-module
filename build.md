@@ -1,6 +1,6 @@
 YouTube: 18.19.35  
 
-Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
+Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
 
@@ -21,5 +21,4 @@ Patches: revanced/revanced-patches-2.181.0.jar
 ### Features
 * **baconreader/change-oauth-client-id:** add compatibility for premium package ([#2550](https://github.com/revanced/revanced-patches/issues/2550)) ([4d1b0b4](https://github.com/revanced/revanced-patches/commit/4d1b0b442768be4f7a12de63d8b973b2ca113f23))
 
----
-    
+---  
